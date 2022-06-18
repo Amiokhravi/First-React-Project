@@ -2,17 +2,10 @@
 
 ## Description
 
-This is a React tutorial project that is include home page, sign up , sign in ,advance search for search the food recipes and "about site"  Which I did it as a 
-practice for the Rosdana training set. (this project is non-Responsive Web Design)
+This is a React tutorial project
 
-## Usage
-
-React
 
 ## installation
 
-- In the first step, you need node js software to install node_modules in this project.
-- After installing node_modules, just open the program terminal and type "npm start". The project runs automatically on a virtual host in your browser.
+First Write (npm i) in terminal of your IDE or text editor in project file
 
-## Project status
-This project is finished and is for practice only.
